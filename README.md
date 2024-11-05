@@ -18,7 +18,6 @@ Recently, I've developed a keen interest in backend development and am actively 
 ### CSS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <!-- Replace with your CSS image URL -->
 - Skilled in styling web pages using CSS3.
-- Familiar with responsive design frameworks like Bootstrap and Tailwind CSS.
 
 ### JavaScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- Replace with your JavaScript image URL -->
